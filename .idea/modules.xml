@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleWeb.iml" filepath="$PROJECT_DIR$/.idea/SimpleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mini_webkuang/mini_frame框架分文件写法/.idea/mini_wen框架分文件写法.iml" filepath="$PROJECT_DIR$/../mini_webkuang/mini_frame框架分文件写法/.idea/mini_wen框架分文件写法.iml" />
+    </modules>
+  </component>
+</project>
